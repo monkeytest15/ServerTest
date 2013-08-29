@@ -20,7 +20,7 @@ dsfsdf
           有限制用户使用次数，同一个平台使用，多个平台使用
           优惠码在web me界面各种状态显示，使用的剩余次数，使用的用户，如删除订单，该list中的优惠码也应该消失
 sdfsdfsdfsdf
-
+xsdfsdf
 订单结构－－>一个iteam
         多个item
         一个item＋大礼包
